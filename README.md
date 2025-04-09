@@ -31,7 +31,7 @@ A full-stack PHP-MySQL based web application to manage and track traffic violati
 
 ## 🗂️ Folder Structure
 
-traffic_violation_system/ ├── add_violation.php ├── dashboard.php ├── includes/ │ └── db.php ├── style.css ├── login.php ├── logout.php ├── add_owner.php (optional) ├── add_officer.php (optional) ├── database/ │ └── traffic_violation_db.sql
+traffic_violation_system/ ├── add_violation.php ├── dashboard.php ├── includes/ │ └── db.php ├── style.css ├── login.php  ├── database/ │ └── traffic_violation_db.sql
 
 ## 🚀 Getting Started
 
